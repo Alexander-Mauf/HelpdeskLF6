@@ -38,16 +38,16 @@ __Antwort:__<br>
 blablabla<br>
 
 
-__Servicezeiten:__
-Montag bis Freitag: 7:00 bis 20:00 Uhr
-Samstag: 9:00 bis 18:00 Uhr
-Sonn- und Feiertage: kein Betrieb
-Erweiterte Servicezeiten sind auf Anfrage möglich.
+__Servicezeiten:__<br>
+Montag bis Freitag: 7:00 bis 20:00 Uhr<br>
+Samstag: 9:00 bis 18:00 Uhr<br>
+Sonn- und Feiertage: kein Betrieb<br>
+Erweiterte Servicezeiten sind auf Anfrage möglich.<br>
 
-__Sprachen:__
-Deutsch
-Englisch
+__Sprachen:__<br>
+Deutsch<br>
+Englisch<br>
 
-__Qualitätsgröße der Anrufannahme:__
-95% aller eingehenden Anrufe werden beantwortet, verlorene Anrufe < 5%
-.... https://www.lernsax.de/wws/784353.php?path=%2F14%2F51%2F103&mode=view&sid=26298085486969561744910982928768973498576601419706277864240954138925978594479045Sf4ee986e&enableautogrow=1# seite 11
+__Qualitätsgröße der Anrufannahme:__<br>
+95% aller eingehenden Anrufe werden beantwortet, verlorene Anrufe < 5%<br>
+....<br> https://www.lernsax.de/wws/784353.php?path=%2F14%2F51%2F103&mode=view&sid=26298085486969561744910982928768973498576601419706277864240954138925978594479045Sf4ee986e&enableautogrow=1# seite 11
