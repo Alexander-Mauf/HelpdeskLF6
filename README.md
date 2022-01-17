@@ -49,5 +49,43 @@ Deutsch<br>
 Englisch<br>
 
 __Qualitätsgröße der Anrufannahme:__<br>
-95% aller eingehenden Anrufe werden beantwortet, verlorene Anrufe < 5%<br>
-....<br> https://www.lernsax.de/wws/784353.php?path=%2F14%2F51%2F103&mode=view&sid=26298085486969561744910982928768973498576601419706277864240954138925978594479045Sf4ee986e&enableautogrow=1# seite 11
+95% aller eingehenden Anrufe werden beantwortet, verlorene Anrufe < 5% <br>
+75% aller eingehenden Anrufe werden in maximal 20 Sekunden entgegengenommen <br>
+90% aller eingehenden Anrufe werden in maximal 40 Sekunden entgegengenommen <br>
+Maximal 10% aller Anfragen werden per Voicemail beantwortet<br>
+
+__Qualitätsgröße Problemlösung:__ <br>
+die durschnittliche bearbeitungszeit für Anrufe beträgt höchstens 30 Minuten. Wird ein Anruf nicht innerhalb von vier Stunden beantwortet wird ein Zwischenbericht erstellt.
+<br>
+Die durschnittliche Bearbeitungs bei Störungen dauert höchstens zwei Stunden. Die maximale Bearbeitungszeit darf drei Tage nicht überschreiten.
+<br>
+Beim Überschreiten der berarbeitungszeiten wird durch die jeweilige Supportstufe automatisch eine Eskalation eingeleitet.
+<br>
+Mindestens 70% aller gemeldeten Probleme müssen innerhalb von 2 Arbeitbeitstagen gelöst werden.
+<br>
+
+__Qualitätsgröße Kundenzufriedenheit:__<br>
+Die Erfassung der Kundenzufriedenheit erfolgt mit Hilfe eines Online-Fragebogens und/oder von Trailer-Calls (Rückruf und Auswertung bei 10% der Anrufer).
+
+__Leistungsumfang:__<br>
+Anfragen beantworten und Störungen beheben; eingeschlossene Geräte:
+- Workstation: 450 PCs und Bildschirme
+- Server: 6 Datenserve, 1 Mailserver, 1 Druckerserver
+- Telefonanlage (ISDN und VoIP)
+- Peripheriegeräte: 54 Drucker, 20 Scanner, 18 All-in-One
+- netzwerkkomponenten: 16 Router, 32 Switche
+
+  Verfügbarkeit sicherstellen 99,5% über ein ganzes Jahr
+
+__Reporting:__<br>
+Die Einhaltung der Bedienung wird monatlich überprüft und viermal pro Jahr statistisch erfasst und ausgewetet.
+
+__Gültigkeit und Dauer:__<br>
+Das Service Level Agreement ist bis zum 1. August 20XX gültig und wird danach neu verhandelt.
+
+
+__Ort und datun:__<br>
+
+Leipzig 17.01.2022
+
+
