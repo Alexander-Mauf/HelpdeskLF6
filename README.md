@@ -13,7 +13,7 @@ Störungen können in drei <b>Prioritäten<b> gemeldet werden:
   - Priorität 2: Reaktionszeit 5 Arbeitsstunden, Standart-Priorität
   - Priorität 3: Reaktionszeit 1 Arbeitstag
   
-  Die Reaktionszeit ist definiert als Zeitspanne zwischen der Störungs
+  Die Reaktionszeit ist definiert als Zeitspanne zwischen der Störungsmeldung am Helpdesk durch den Anwender und der Aufnahme der Arbeiten für die Problemlösung durch die entsprechende Spportstelle. Die Reaktionszeit gilt während folgender Servicezeiten:
 
 
 __Servicezeiten:__<br>
