@@ -3,6 +3,18 @@ Zur bearbeitung einer Unterrichtsaufgabe im Lernfeld6.
 
 # Service Level Agreement
 
+__Berschreibung:__<br>
+
+Die Special Solutions GmbH ist der erste Ansprechpartner bei dem im Lieferumfang spezifizierten IT-Problemen. Die Entgegennahme der Störung erfolgt durch den Helpdesk. Die Lösungsfindung de Problems/der Anfrage erfolgt vorrangig telefonisch oder per Mail. Ansonsten erfolgt die Weitergabe an die nächste Supportstelle, die weiteren Maßnahmen enileitet.
+
+Störungen können in drei <b>Prioritäten<b> gemeldet werden:
+  
+  - Priorität 1: Reaktionszeit 1 Arbeitsstunde, Express-Zuschlag
+  - Priorität 2: Reaktionszeit 5 Arbeitsstunden, Standart-Priorität
+  - Priorität 3: Reaktionszeit 1 Arbeitstag
+  
+  Die Reaktionszeit ist definiert als Zeitspanne zwischen der Störungs
+
 
 __Servicezeiten:__<br>
 Montag bis Freitag: 7:00 bis 20:00 Uhr<br>
